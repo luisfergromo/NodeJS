@@ -1,0 +1,20 @@
+{
+  "name": "webpage",
+  "version": "1.0.0",
+  "description": "This repo was made for test NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisfergromo/NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisfergromo/NodeJS/issues"
+  },
+  "homepage": "https://github.com/luisfergromo/NodeJS#readme"
+}
