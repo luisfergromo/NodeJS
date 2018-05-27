@@ -1,7 +1,7 @@
 {
   "name": "webpage",
   "version": "1.0.0",
-  //"description": "This repo was made for test NodeJS",
+  "description": "This repo was made for test NodeJS",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
