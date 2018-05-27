@@ -8,7 +8,8 @@ app.get("/",(req,res)=>{
 })
 app.get("/users",(req,res)=>{
     var user1 ={firstName:"Sthephen",lastName:"Curry"}
-    res.json(user1)
+    var user2 ={firstName:"Michael",lastName:"Jackson"}
+    res.json([user1,user2])
     //res.send("Nodemon auto update ")
 })
 
